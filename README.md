@@ -11,3 +11,6 @@ git push
 - Initialization of repository
 - First push to GitHub
 - Work with feature branches
+## Branches
+- feature/readme
+- feature/info
