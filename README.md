@@ -7,3 +7,7 @@ git init
 git add
 git commit
 git push
+## Exercise stages
+- Initialization of repository
+- First push to GitHub
+- Work with feature branches
